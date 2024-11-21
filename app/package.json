@@ -1,0 +1,13 @@
+{
+    "name": "virtual-unsa-api",
+    "version": "1.0.0",
+    "description": "API to serve cc unsa data",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "pg": "^8.7.1"
+    }
+  }
